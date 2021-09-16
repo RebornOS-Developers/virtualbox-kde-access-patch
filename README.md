@@ -10,3 +10,4 @@ How to clone this repo:
 git clone https://github.com/RebornOS-Developers/virtualbox-kde-access-patch.git
 ```
 
+Name of the access under KDE: **Oracle VM VirtualBox KDE patch**
